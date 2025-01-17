@@ -1,4 +1,12 @@
 # deep-thought-add-in
+
+!!! ARCHIVED REPO - DO NOT USE !!!
+
+The improved and maintained version of this code can be found at : https://github.com/Esri/arcgis-pro-sdk-community-samples/tree/master/Geoprocessing/DeepThought
+
+
+----
+
 Example of embedding and deploying gp toolbox through a .NET add-in.
 
 Official sdk doc is at : https://github.com/Esri/arcgis-pro-sdk/wiki/ProGuide-content-and-image-resources#embedding-toolboxes
